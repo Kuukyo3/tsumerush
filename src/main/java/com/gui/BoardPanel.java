@@ -159,8 +159,8 @@ public class BoardPanel extends JPanel {
                         return;
                     } else {
                         playSound();
-                        tsumeOver = true;
                         setCorrect(false);
+                        tsumeOver = true;
                         highlight = true;
                         highlightIndex = index;
                         repaint();

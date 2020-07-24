@@ -20,8 +20,8 @@ public class ImageHandler {
     {
         try {
         
-            shogiBan =  ImageIO.read(getInputStream("shogiban.png"));
-            BufferedImage tmpPieces = ImageIO.read(getInputStream("little's pieces.png"));
+            shogiBan =  ImageIO.read(getInputStream("img/shogiban.png"));
+            BufferedImage tmpPieces = ImageIO.read(getInputStream("img/pieces.png"));
             double pieceWidth = tmpPieces.getWidth() / 8;
             double pieceHeight = tmpPieces.getHeight() / 4;
             for (int i = 0; i < 4; i++) {
