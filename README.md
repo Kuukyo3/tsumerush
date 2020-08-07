@@ -1,4 +1,7 @@
 A simple tsumerash app.
+
+[Download](https://github.com/Kuukyo3/tsumerush/raw/master/tsumerush.jar)
+
 You can choose between 1, 3, 5, 7, 9, 11, 13 and 15 move tsume.
 At the bottom right corner you can choose the duration in minutes you want to play for.
 
