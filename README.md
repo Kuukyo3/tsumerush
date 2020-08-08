@@ -2,6 +2,8 @@ A simple Shogi tsumerush app.
 
 [Download](https://github.com/Kuukyo3/tsumerush/raw/master/tsumerush.jar)
 
+*Currently not under active development, thus archived. Might change in the future*
+
 You can choose between 1, 3, 5, 7, 9, 11, 13 and 15 move tsume (Shogi mating puzzles).
 At the bottom right corner you can choose the duration in minutes you want to play for.
 
