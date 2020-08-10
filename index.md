@@ -1,3 +1,8 @@
+---
+google-site-verification: 6m8Ai0X5PbquJOKqiqGoRv07OCnl-rGUfTfw2fFuWso
+---
+
+
 A simple Shogi tsumerush app.
 
 [Download](https://github.com/Kuukyo3/tsumerush/raw/master/tsumerush.jar)
